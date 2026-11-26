@@ -4,11 +4,11 @@
 
 **Family Control** · *Family Control*
 
-Verifica della relazione genitore/tutore-studente, deleghe e regole familiari aggiuntive coordinate con quelle scolastiche.
+Parental control **open source e gratuito**, **facoltativo e scelto dal genitore**: regole aggiuntive sul tablet della scuola e gestione dei **dispositivi della famiglia** (telefoni e tablet Android, PC Windows, macOS e Linux). Limiti di tempo, fasce orarie, filtro web, app consentite, riepiloghi visibili anche al figlio. Nessuna sorveglianza nascosta. Vedi [ADR-0014](https://eduwisp.github.io/docs/decisioni/0014-family-control-facoltativo-multipiattaforma/).
 
 > 🚧 **Stato: progettazione.** Questo repository non contiene ancora codice. La progettazione è nella [documentazione EduWISP](https://eduwisp.github.io/docs/moduli/family-control/).
 
-🇬🇧 *Parent/guardian-student relationship verification, delegations and additional family rules coordinated with school rules. **Status: design phase**, no code yet. See the [design docs](https://eduwisp.github.io/docs/en/modules/family-control/).*
+🇬🇧 *Optional, parent-chosen, free and open-source parental control for the school tablet and family devices (Android, Windows, macOS, Linux). **Status: design phase**, no code yet. See the [design docs](https://eduwisp.github.io/docs/en/modules/family-control/).*
 
 ## Documentazione / Documentation
 
